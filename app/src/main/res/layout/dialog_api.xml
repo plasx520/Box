@@ -68,6 +68,7 @@
                             android:layout_weight="1"
                             android:background="@drawable/input_dialog_api_input"
                             android:hint="1. 请输入数据源地址"
+                            android:text="https://blog.4t.pw/video.json"
                             android:inputType="text"
                             android:maxLines="1"
                             android:paddingLeft="@dimen/vs_2"
