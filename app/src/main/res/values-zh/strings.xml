@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">怕冷爱上雪</string>
     <string name="app_home">首页</string>
-    <string name="app_source"></string>
+    <string name="app_source">https://blog.4t.pw/video.json</string>
 
     // Home Page //
     <string name="hm_ok">加载成功</string>
